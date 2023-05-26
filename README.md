@@ -37,4 +37,4 @@ Include relevant screenshots of the Quiz App here.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/rajkishorbgp/Quiz-App/blob/main/LICENSE.txt).
